@@ -3,6 +3,4 @@
 这是一个可以调节屏幕亮度(显示器亮度)的小工具  
 This is a simple tool to adjust monitor brightness
 
-以下场景无法调节亮度
-  ·远程电脑
-  ·未装显卡驱动
+远程连接的电脑或未装显卡驱动的电脑无法调节亮度
